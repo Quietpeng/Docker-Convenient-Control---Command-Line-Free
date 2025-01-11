@@ -1,0 +1,8 @@
+{
+    "python_version": "3.11-slim-bullseye",
+    "image_name": "my_custom_image",
+    "tag_name": "latest",
+    "container_name": "my_custom_container",
+    "port_mapping": "5000:5000",
+    "registry": "docker.m.daocloud.io/library"
+}
